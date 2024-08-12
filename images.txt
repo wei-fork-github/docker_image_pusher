@@ -3,4 +3,5 @@
 # --platform=linux/arm64 vaultwarden/server
 # vaultwarden/server
 # debian
-wiznote/wizserver
+# wiznote/wizserver
+louislam/uptime-kuma:1
