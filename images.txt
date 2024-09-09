@@ -5,4 +5,5 @@
 # debian
 # wiznote/wizserver
 # louislam/uptime-kuma:1
-b3log/siyuan
+# b3log/siyuan
+calciumion/new-api:latest
