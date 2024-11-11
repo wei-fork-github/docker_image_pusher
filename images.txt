@@ -7,4 +7,6 @@
 # louislam/uptime-kuma:1
 # b3log/siyuan
 # calciumion/new-api:latest
-syangtechcn/dell-fan-control:2024-04-25
+# syangtechcn/dell-fan-control:2024-04-25
+217heidai/mm-wiki
+requarks/wiki
